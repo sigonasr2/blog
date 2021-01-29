@@ -6,7 +6,7 @@
 ## How to Acquire a Skill
 Have you seen those advertisements / sponsors like Skillshare and things that promise many tutorials on starting new hobbies? Well, they do their job... Their job isn't to teach you a new hobby, it's to get you sucked into buying into their platform. Have you ever seen those things worked or tried it before? Let me summarize for you what happens. You find something you think is cool, you watch the first two videos, try it for a day and then don't come back tomorrow... I'll go into why this happens in the next few paragraphs and dissect it.
 
-This is an example to help back my belief: Skill acquisition, whether it's programming or something else, requires you to first **devote yourself**. You need a reason to want to do something. This is why I hate helping people with their programming homework. Because they just see it as **homework** I'll I see it as a great app waiting to be built and discovered...
+This is an example to help back my belief: Skill acquisition, whether it's programming or something else, requires you to first **devote yourself**. You need a reason to want to do something. This is why I hate helping people with their programming homework. Because they just see it as **homework** while I see it as a great app waiting to be built and discovered...
 
 ## A Great App Waiting to Be Built
 Part of the fun of Computer Programming is **Problem Solving**. If you love solving puzzles or solving problems, then programming is actually really fun. A lot of people are **not** viewing computer programming from a problem solving perspective, but as a list of commands you run to get a result.
