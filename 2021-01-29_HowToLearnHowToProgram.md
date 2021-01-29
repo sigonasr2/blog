@@ -67,7 +67,7 @@ What you will find is that you may have never completed your original goal. But 
 
 And then this spark of motivation to build other cool projects turned into a web of even more integration with each project where everytime I succeeded at building stuff for one project I realized it benefits certain other ones just as well.
 
-So maybe we were never meant to complete everything we wanted to originally achieve. But I think by following this mindset of constant improvement and building upon what you've built over and over with **no concrete goals** you will always end up being a better you! And this doesn't apply to programming.
+So maybe we were never meant to complete everything we wanted to originally achieve. But I think by following this mindset of constant improvement and building upon what you've built over and over with **no concrete goals** you will always end up being a better you! And this doesn't apply to just computer programming. It can apply to many other types of learning too!
 
 I hope you can realize that this type of learning system is actually how you succeed in anything in life. Don't worry about what people think, don't worry about trying to accomplish your one strict goal. You *want* to stray from your path. You *want* to go down that endless rabbit hole of new experiences to try and never-ending improvement. The farther you can dig into these things, the more successful you will be. Whether it's programming, or not...
 
